@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavorCopositionOverInherita
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TightleVSLooselyCoupled", "TightleVSLooselyCoupled\TightleVSLooselyCoupled.csproj", "{B90AF53D-F92A-4114-A937-605DF3B3F9A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-SingleResponsblity-SRP", "SOLID-SingleResponsblity-SRP\SOLID-SingleResponsblity-SRP.csproj", "{DEE30A14-D784-4239-B1B4-5954EF793917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID-SingleResponsblity-SRP", "SOLID-SingleResponsblity-SRP\SOLID-SingleResponsblity-SRP.csproj", "{DEE30A14-D784-4239-B1B4-5954EF793917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-OpenClosePrinsiple-OCP", "SOLID-OpenClosePrinsiple-OCP\SOLID-OpenClosePrinsiple-OCP.csproj", "{9F5BE870-7157-4BE1-8E34-C17FF7378A68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DEE30A14-D784-4239-B1B4-5954EF793917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE30A14-D784-4239-B1B4-5954EF793917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE30A14-D784-4239-B1B4-5954EF793917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5BE870-7157-4BE1-8E34-C17FF7378A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5BE870-7157-4BE1-8E34-C17FF7378A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5BE870-7157-4BE1-8E34-C17FF7378A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5BE870-7157-4BE1-8E34-C17FF7378A68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
