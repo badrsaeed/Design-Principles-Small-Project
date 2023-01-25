@@ -1,0 +1,16 @@
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.exe
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.deps.json
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.runtimeconfig.json
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.runtimeconfig.dev.json
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.dll
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\bin\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.pdb
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.csproj.AssemblyReference.cache
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.AssemblyInfoInputs.cache
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.AssemblyInfo.cs
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.dll
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\refint\SOPLID-LiskoveSubistitutionPrinciple-LSP.dll
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.pdb
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\SOPLID-LiskoveSubistitutionPrinciple-LSP.genruntimeconfig.cache
+D:\Projects\C#\Design principles\Design-Principles\SOPLID-LiskoveSubistitutionPrinciple-LSP\obj\Debug\net5.0\ref\SOPLID-LiskoveSubistitutionPrinciple-LSP.dll
